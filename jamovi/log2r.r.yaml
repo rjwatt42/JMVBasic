@@ -1,0 +1,16 @@
+---
+name:  log2r
+title: logistic regression to r
+jrs:   '1.1'
+
+items:
+    - name: reportTable
+      title: ' '
+      type: Table
+      rows: 8  
+      columns: 
+      - name: "Parameter"
+        type: text
+      - name: "Value"
+        type: number
+...

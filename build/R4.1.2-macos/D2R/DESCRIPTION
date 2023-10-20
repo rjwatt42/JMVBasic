@@ -1,0 +1,13 @@
+Package: D2R
+Type: Package
+Title: Simple effect size conversions
+Version: 0.1.1
+Author: Roger Watt
+Maintainer: Roger Watt <r.j.watt@stir.ac.uk>
+Description: This implements simple effect size conversios.
+    For now, focussing on normalized effect sizes.
+License: Creative Commons
+Encoding: UTF-8
+LazyData: true
+Imports: jmvcore (>= 2.3.4), R6
+Built: R 4.1.2; ; 2023-10-20 15:27:21 UTC; unix
