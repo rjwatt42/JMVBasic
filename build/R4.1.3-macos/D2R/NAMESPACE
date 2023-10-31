@@ -1,0 +1,17 @@
+exportPattern("^[[:alpha:]]+")
+import(jmvcore)
+
+export(r2rClass)
+export(r2rOptions)
+
+export(d2rClass)
+export(d2rOptions)
+
+export(anova2rClass)
+export(anova2rOptions)
+
+export(chi2rClass)
+export(chi2rOptions)
+
+export(log2rClass)
+export(log2rOptions)
